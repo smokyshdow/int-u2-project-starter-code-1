@@ -16,3 +16,7 @@ color: white;
 .me2{
     display: flex; justify-content: center;
 }
+
+.aline{
+    display: flex;
+}
